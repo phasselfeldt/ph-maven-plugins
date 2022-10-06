@@ -8,5 +8,6 @@
   <modules>
   	<!--module>ph-maven-core</module-->
   	<!--module>ph-maven-gitignore-maven-plugin</module-->
+  	<module>ph-maven-gitignore-maven-plugin</module>
   </modules>
 </project>
