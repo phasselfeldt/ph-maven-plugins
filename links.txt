@@ -1,3 +1,10 @@
+# Guide to Developing Java Plugins - Apache Maven Project
+https://maven.apache.org/guides/plugin/guide-java-plugin-development.html
+
+# How to Create a Maven Plugin - Baeldung
+https://www.baeldung.com/maven-plugin
+
+
 # Retrieve version from maven pom.xml in code- StackOverflow
 https://stackoverflow.com/questions/3697449/retrieve-version-from-maven-pom-xml-in-code
 
@@ -33,3 +40,24 @@ https://maven.apache.org/ref/3.2.3/apidocs/org/apache/maven/project/MavenProject
 
 # ComparableVersion.java - maven-artifact - GitHub
 https://github.com/apache/maven/blob/master/maven-artifact/src/main/java/org/apache/maven/artifact/versioning/ComparableVersion.java
+
+# damianszczepanik / maven-cucumber-reporting - GitHub
+https://github.com/damianszczepanik/maven-cucumber-reporting
+
+# ajavageek / minify-maven - GitHub
+https://github.com/ajavageek/minify-maven
+
+# ehur / zuss-mojo - GitHub
+https://github.com/ehur/zuss-mojo
+
+#  KnisterPeter / rename-file-maven-plugin - GitHub
+https://github.com/KnisterPeter/rename-file-maven-plugin
+
+# github / maven-plugins - GitHub 
+https://github.com/github/maven-plugins
+
+# Class MavenProject - Maven ApiDoc
+https://maven.apache.org/ref/3.2.3/apidocs/org/apache/maven/project/MavenProject.html
+
+# apache / tomcat-maven-plugin - GitHub
+https://github.com/search?q=maven-plugin&type=repositories&p=3
